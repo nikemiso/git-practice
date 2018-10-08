@@ -1,0 +1,3 @@
+Name: Nike
+Age: 26
+Favorite Color: Red
